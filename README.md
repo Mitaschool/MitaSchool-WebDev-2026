@@ -1,4 +1,4 @@
-# 🎓 Mita School – Web Development Cohort 2026
+# Mita School – Web Development Cohort 2026
 
 Welcome to the official project archive for Web Development students – 2026.
 
