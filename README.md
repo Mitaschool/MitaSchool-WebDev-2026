@@ -9,11 +9,17 @@ This repository documents final projects from students who completed the **Web D
 
 ## 📋 Student Projects
 
-| # | Student Name | Project Title | Description | Live Link | Repo Link | Cohort |
-|---|--------------|---------------|-------------|-----------|-----------|--------|
-| 1 | John Eze | Portfolio Website | Personal portfolio built with HTML & CSS | [🔗 View](https://...) | [💻 GitHub](https://...) | Jan 2026 |
-| 2 | Amara Obi | Restaurant Website | Multi-page site with menu and contact form | [🔗 View](https://...) | [💻 GitHub](https://...) | Mar 2026 |
-| 3 | Blessing Udoh | E-Commerce UI | Responsive product listing page with cart | [🔗 View](https://...) | [💻 GitHub](https://...) | Jun 2026 |
+| # | Student Name | Project Title | Description | Live Link | Repo Link |
+|---|--------------|---------------|-------------|-----------|-----------|
+| 1 | — | Logistics Website | A logistics company website | [🔗 View](https://veeleslie008.github.io/LOGISTICS/) | — |
+| 2 | — | GlobalSkyFleet | Full-featured international courier management platform built with Laravel. Features multi-currency payments, dynamic shipping rates, automated customs forms, and real-time shipment tracking. | [🔗 View](https://www.globalskyfleet.com) | [💻 GitHub](https://github.com/DestinySolomon/globalskyfleet) |
+| 3 | — | QRCraft | Smart QR Code Generator Platform. Supports Website URLs, WhatsApp, Phone, Email, Text, and WiFi QR codes — no registration needed. | [🔗 View](https://qrcraft.site) | — |
+| 4 | — | Engagflow | Social media growth support and daily earning opportunity platform. | [🔗 View](https://engagflow.com) | — |
+| 5 | — | ClipX | — | — | [💻 GitHub](https://github.com/nodexxplorer/clipX) |
+| 6 | — | RealityX | — | — | [💻 GitHub](https://github.com/nodexxplorer/realityX) |
+| 7 | — | INEC E-Voting Website | Electronic voting platform enabling Nigerians to vote remotely. Promotes free and fair elections with a one-man-one-vote directive. | [🔗 View](https://ambassadorsavior.github.io/Inec_electronic_election/) | — |
+| 8 | — | Consalfa | AI-powered construction management platform with project tracking, material management, workforce monitoring, progress reports, and an integrated AI assistant. | [🔗 View](https://douglas-bassey.github.io/consalfa-engine/index.html) | — |
+| 9 | — | Clinic Website | A clinic/healthcare website. | [🔗 View](https://godsfavourodungide.github.io/Clinic-Website/) | — |
 
 ---
 
