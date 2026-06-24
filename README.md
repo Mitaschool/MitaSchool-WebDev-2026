@@ -1,24 +1,8 @@
-<table>
-  <tr>
-    <th>S/N</th>
-    <th>Student</th>
-    <th>Project</th>
-    <th>Snapshot</th>
-    <th>Tech Stack</th>
-    <th>Links</th>
-  </tr>
+# 🌐 Mita School — Web Development 2026
+> Student Project Showcase | Uyo, Akwa Ibom, Nigeria
 
-  <tr>
-    <td>1</td>
-    <td>John Doe</td>
-    <td>E-Commerce Platform</td>
-    <td>
-      <img src="./screenshots/john-ecommerce.png" width="250">
-    </td>
-    <td>HTML, CSS, JS, Node</td>
-    <td>
-      <a href="https://example.com">Live</a><br>
-      <a href="https://github.com/username/project">Repo</a>
-    </td>
-  </tr>
-</table>
+| # | Student Name | Project Title | Description | Live Link | Repo Link | Batch |
+|---|--------------|---------------|-------------|-----------|-----------|-------|
+| 1 | John Eze | Portfolio Website | A personal portfolio built with HTML & CSS | [View Live](https://...) | [GitHub](https://...) | Jan 2026 |
+| 2 | Amara Obi | Landing Page | Responsive landing page for a local business | [View Live](https://...) | [GitHub](https://...) | Mar 2026 |
+| 3 | Blessing Udoh | E-Commerce UI | Product listing page with cart UI | [View Live](https://...) | [GitHub](https://...) | Jun 2026 |
