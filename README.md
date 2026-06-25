@@ -2,8 +2,8 @@
 > Student Project Showcase · Uyo, Akwa Ibom, Nigeria
 > [mitaschool.com](https://mitaschool.com)
 
-This repository documents final projects from students who completed the Web Development
-program at Mita School in 2026. Projects are added as students graduate each cohort.
+This repository documents  projects from students form web developement
+program at Mita School in 2026 first Quarter. 
 
 ---
 
