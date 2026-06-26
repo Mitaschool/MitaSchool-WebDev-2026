@@ -11,7 +11,7 @@ This repository documents projects completed by students of the **Web Developmen
 - **Program:** Web Development  
 - **Location:** Uyo, Akwa Ibom, Nigeria  
 - **Quarter:** Q1 2026  
-- **Total Projects:** 15  
+ 
 
 ---
 
